@@ -19,6 +19,7 @@
   <img style="width: 60px; height: 60px;" alt="Ícone do Python." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
   <img style="width: 60px; height: 60px;" alt="Ícone do Flask." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg"/>
   <img style="width: 60px; height: 60px;" alt="Ícone do SQLAlchemy." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg"/>
+  <img style="width: 60px; height: 60px;" alt="Ícone do MongoDB." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img style="width: 60px; height: 60px;" alt="Ícone do Docker." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"/>
 </div><br>
 
