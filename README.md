@@ -7,7 +7,7 @@
 <p>Sou o José, e atualmente estou no 5º semestre em <b>Engenharia de Software.</b> <br>Amo programar, e meus interesses incluem desenvolvimento web, automação de tarefas e visão computacional.</p>
 
 
-## 🤖 Tecnologias
+## 🤖 Tecnologias 
 
 <div>
   <img style="width: 60px; height: 60px;" alt="Ícone do VSCode." src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
