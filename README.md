@@ -4,7 +4,7 @@
 
 ## 🙋 Sobre mim
 
-<p>Sou o José, e atualmente estou no 5º semestre em <b>Engenharia de Software.</b> <br>Amo programar, e meus interesses incluem desenvolvimento web, automação de tarefas e visão computacional.</p>
+<p>Sou o José, e atualmente estou no 5º semestre em <b>Engenharia de Software.</b> <br>Amo programar, e meus interesses incluem desenvolvimento web, automação de tarefas e análise de dados.</p>
 
 
 ## 🤖 Tecnologias 
