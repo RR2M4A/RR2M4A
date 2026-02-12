@@ -27,7 +27,7 @@
 
 ## Informações complementares
 
-- 🔭 Estudante da Universidade de Brasília (5º semestre)
+- 🔭 Estudante da Universidade de Brasília (7º semestre)
 - 💼 Estagiando na Administração Regional do Gama.
 
 ## 📫 Entre em Contato
